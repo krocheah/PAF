@@ -1,4 +1,0 @@
-PAF
-===
-
-Pardus Anka Forum
