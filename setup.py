@@ -5,10 +5,10 @@ from setuptools import setup, find_packages
 setup(
     name='django-forum',
     version="0.1",
-    author='Steve Yeago',
-    author_email='subsume@gmail.com',
-    description='Forum in Django',
-    url='http://github.com/subsume/django-forum',
+    author='Pardus ANKA',
+    author_email='pisiciftligi@pardus-linux.org',
+    description='Pardus ANKA Forum',
+    url='http://pardus-anka.org',
     packages=find_packages(),
     include_package_data=True,
     classifiers=[
